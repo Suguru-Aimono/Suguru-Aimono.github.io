@@ -1,0 +1,16 @@
+.title {
+    font-size: 40px;
+    color:blueviolet;
+}
+
+header {
+    height: 50px;
+    width: 80%;
+    background-color:burlywood;
+}
+
+header h3{
+    color:chocolate;
+    padding-top: 12px;
+    padding-left: 10px;
+}
