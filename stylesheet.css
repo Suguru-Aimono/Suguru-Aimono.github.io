@@ -14,3 +14,17 @@ header h3{
     padding-top: 12px;
     padding-left: 10px;
 }
+
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(top.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.title {
+   color: white;
+}   
+    
+   
